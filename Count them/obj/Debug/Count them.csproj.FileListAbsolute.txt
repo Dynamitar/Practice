@@ -1,0 +1,6 @@
+D:\VSProject\AlphaExam1\Count them\bin\Debug\Count them.exe.config
+D:\VSProject\AlphaExam1\Count them\bin\Debug\Count them.exe
+D:\VSProject\AlphaExam1\Count them\bin\Debug\Count them.pdb
+D:\VSProject\AlphaExam1\Count them\obj\Debug\Count them.exe
+D:\VSProject\AlphaExam1\Count them\obj\Debug\Count them.pdb
+D:\VSProject\AlphaExam1\Count them\obj\Debug\Count them.csprojResolveAssemblyReference.cache

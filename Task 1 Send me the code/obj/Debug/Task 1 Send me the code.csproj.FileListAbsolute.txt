@@ -1,0 +1,6 @@
+D:\VSProject\AlphaExam1\Task 1 Send me the code\bin\Debug\Task 1 Send me the code.exe.config
+D:\VSProject\AlphaExam1\Task 1 Send me the code\bin\Debug\Task 1 Send me the code.exe
+D:\VSProject\AlphaExam1\Task 1 Send me the code\bin\Debug\Task 1 Send me the code.pdb
+D:\VSProject\AlphaExam1\Task 1 Send me the code\obj\Debug\Task 1 Send me the code.csprojResolveAssemblyReference.cache
+D:\VSProject\AlphaExam1\Task 1 Send me the code\obj\Debug\Task 1 Send me the code.exe
+D:\VSProject\AlphaExam1\Task 1 Send me the code\obj\Debug\Task 1 Send me the code.pdb

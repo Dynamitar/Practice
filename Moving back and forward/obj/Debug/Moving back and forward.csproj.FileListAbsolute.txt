@@ -1,0 +1,6 @@
+D:\VSProject\AlphaExam1\Moving back and forward\bin\Debug\Moving back and forward.exe.config
+D:\VSProject\AlphaExam1\Moving back and forward\bin\Debug\Moving back and forward.exe
+D:\VSProject\AlphaExam1\Moving back and forward\bin\Debug\Moving back and forward.pdb
+D:\VSProject\AlphaExam1\Moving back and forward\obj\Debug\Moving back and forward.exe
+D:\VSProject\AlphaExam1\Moving back and forward\obj\Debug\Moving back and forward.pdb
+D:\VSProject\AlphaExam1\Moving back and forward\obj\Debug\Moving back and forward.csprojResolveAssemblyReference.cache
